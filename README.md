@@ -1,5 +1,4 @@
-## Th3-Bomber 🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Glitch&pause=1000&color=00FF00&random=false&width=435&lines=Th3-Bomber+By+%5BTh3-C0der%5D)](https://git.io/typing-svg)
 
 ## About Tool:
 
