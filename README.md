@@ -26,7 +26,7 @@
 
 ## Test On:
 - Termux
-- Mi Note 9 pro
+- Motorola Edge 40
 
 ## INSTALLATION [Termux] :
 
