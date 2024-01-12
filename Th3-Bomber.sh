@@ -139,13 +139,13 @@ echo " "
    if [ $ch -eq 1 ];then
         cd $HOME
         cd Th3-Bomber
-        python3 bomber.py
+        python3 Th3.py
        
         exit
     elif [ $ch -eq 2 ];then
         cd $HOME
         cd Th3-Bomber
-        python3 bomber.py
+        python3 Th3.py
         
         exit
         exit
@@ -165,7 +165,7 @@ echo " "
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf Th3-Bomber
-        https://github.com/Th3-C0der/Th3-Bomber
+        git clone https://github.com/Th3-C0der/Th3-Bomber
         cd Th3-Bomber
         bash Th3-Bomber.sh
        
