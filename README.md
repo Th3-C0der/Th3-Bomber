@@ -41,6 +41,11 @@
 * `chmod +x Th3-Bomber.sh`
 * `./Th3-Bomber.sh Or bash Th3-Bomber.sh`
 
+## RUN!:
+
+* `cd Th3-Bomber`
+* `python Th3.py`
+  
 ## INSTALLATION [Kali Linux] :
 
 * `sudo apt install python`
