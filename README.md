@@ -85,7 +85,7 @@
         🔴      🔴   🔴🔴     🔴   🔴    🔴🔴    🔴     🔴 🔴🔴🔴        🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 
-# THANKS FOR USING! LOVE YOU 1000000!🔴🔴🔴🔴✔
+# THANKS FOR USING! LOVE YOU 11111111111!🔴🔴🔴🔴✔
 
 ## Run Th3-Bomber In Google Cloud Shell
 **For PC**
