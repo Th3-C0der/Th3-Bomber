@@ -88,7 +88,6 @@
 # THANKS FOR USING! LOVE YOU 11111111111!🔴🔴🔴🔴✔
 
 ## Run Th3-Bomber In Google Cloud Shell
-**For PC**
 <p align="left">
   <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Th3-C0der/Th3-Bomber.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
 </p>
