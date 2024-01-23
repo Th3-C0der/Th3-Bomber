@@ -16,6 +16,7 @@
 - mail bombing
 - whatsapp bombing
 - Frequent updates
+- Some Features Might Be Not Available Due To Some Problems With The API
 
 ## Available On
 - Termux
