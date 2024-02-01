@@ -26,7 +26,7 @@
 
 ## Test On:
 - Termux
-- Motorola Edge 40
+- Kali Linux
 
 ## INSTALLATION [Termux] :
 
@@ -87,10 +87,5 @@
 
 
 # THANKS FOR USING! LOVE YOU 11111111111!🔴🔴🔴🔴✔
-
-## Run Th3-Bomber In Google Cloud Shell
-<p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Th3-C0der/Th3-Bomber.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Th3-C0der&label=Profile%20views&color=0e75b6&style=flat" alt="Th3-C0der" /> </p>
