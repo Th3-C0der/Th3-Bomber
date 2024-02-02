@@ -19,7 +19,7 @@
 - Some Features Might Be Not Available Due To Some Problems With The API
 
 ## To Do 
-- [ ] ReDesign & ReCreate Th3-Bomber
+- [ ] Re-Design & Re-Create Th3-Bomber
 - [ ] Add Better API & Fix Some Issues
 
 ## Available On
